@@ -1,5 +1,5 @@
 import { Link,Outlet, useLocation } from 'react-router-dom'; // Asegúrate de que react-router-dom esté instalado
-import '../navbar/NavbarStyle8.css'; // Si necesitas estilos personalizados
+import '../navbar/NavBarStyle8.css'; // Si necesitas estilos personalizados
 
 const Navbar = () => {
 
